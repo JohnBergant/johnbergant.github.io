@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: johnbergant.github.io
+Token: 37d7ea6b30f3afef12a5b5c3d047e0e6b8be49157f4f0417892a1fe19404cbdf
