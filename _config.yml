@@ -1,2 +1,1 @@
-title: John Bergants's homepage
-description: Default homepage
+include: [".well-known"]
